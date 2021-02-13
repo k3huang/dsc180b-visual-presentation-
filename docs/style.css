@@ -1,0 +1,6 @@
+.pics{
+    display: grid;
+    position: relative;
+    grid-gap: 10px;
+    text-align: center;
+}
