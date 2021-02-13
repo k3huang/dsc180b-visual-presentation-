@@ -1,0 +1,74 @@
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.highcharts-subtitle {
+    font-style: italic;
+    fill: #7cb5ec;
+}
+
+.chart-parent--container {
+    display: flex;
+}
+
+.chart--container {
+    height: 100%;
+    width: 100%;
+    min-height: 400px;
+}
+
+.writtenCorpora {
+    width: '100%'; 
+    height: 950px;
+    text-align: center;
+    background-color:#DFD6C7;
+    padding-bottom: 20px;
+}
+
+#numSyllables {
+    background-color:#444945;
+}
+
+p {
+    text-align: center;
+    background-color: #DFD6C7;
+    padding-top: 30px;
+    margin-left: 18px;
+}
+
+#definition {
+    font-family: 'Times New Roman';
+    font-style: italic;
+    margin-left: 615px;
+    width: 450px;
+    padding-bottom: 10px;
+}
+
+#defID {
+    background-color: #DFD6C7;
+    margin-bottom: -20px;
+    margin-top: -25px;
+    padding-top: 30px;
+    color: #444945;
+    font-weight: 'bold';
+    font-size: 20px;
+}
+
+.text {
+    padding-top: 35px;
+    padding-left: 510px;
+    width: 650px;
+}
+
+#agg {
+    height: 860px;
+    margin-top: -100px;
+    background-color: #F3EDE7;
+}
+
+
+
+
+
+
